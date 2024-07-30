@@ -1,0 +1,17 @@
+flutter:
+  assets:
+    - assets/login_bg.jpg
+    - assets/signup_bg.jpg
+    - assets/single_room.jpg
+    - assets/double_room.jpg
+    - assets/suite.jpg
+    - assets/deluxe_suite.jpg
+    - assets/resort_view.jpg
+    - assets/beachside.jpg
+    - assets/mountain_view.jpg
+    - assets/pool_area.jpg
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_swiper: ^1.1.6
