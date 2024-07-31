@@ -1,4 +1,4 @@
-#Flutter Authentication and Booking App
+#Flutter Authentication and Booking App#
 
 #Overview
 This Flutter application provides a simple authentication system (Login/Signup) and a booking feature for a resort. The app includes:
