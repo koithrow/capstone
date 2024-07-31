@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
 }
 
 # Authentication Screen
-'AuthScreen' provides login and signup functionalities.
+**'AuthScreen' provides login and signup functionalities.**
 
 class AuthScreen extends StatefulWidget {
   @override
@@ -74,7 +74,7 @@ class _AuthScreenState extends State<AuthScreen> {
 }
 
 # Home Screen
-'HomePage' displays the user information and options to select dates, choose a room, or browse scenery.
+**'HomePage' displays the user information and options to select dates, choose a room, or browse scenery.**
 
 class HomePage extends StatefulWidget {
   final DateTime? startDate;
